@@ -1,5 +1,5 @@
 {
-  "name": "@skhalife/actions-quick-demo",
+  "name": "@nielspineda/actions-quick-demo",
   "version": "1.0.0",
   "description": "Functions for working with the Fibonacci sequence",
   "main": "index.js",
