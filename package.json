@@ -1,5 +1,5 @@
 {
-  "name": "@nielspineda/actions-quick-demo",
+  "name": "@nielspineda/Actions-Demo-v2",
   "version": "1.0.0",
   "description": "Functions for working with the Fibonacci sequence",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/skhalife/actions-quick-demo.git"
+    "url": "git://github.com/nielspineda/ActionsDemov2.git"
   },
   "author": "Bryan Cross <bryancross@github.com>",
   "license": "MIT",
